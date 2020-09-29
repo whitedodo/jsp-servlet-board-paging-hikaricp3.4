@@ -1,0 +1,119 @@
+@charset "utf-8";
+
+/* 1. 제목 */
+h3{
+	font-size:20px;
+	font-family:'Nanum Gothic';
+	text-align:center;
+}
+
+/* 2. 게시판 */
+/* 게시판 목록 출력 */
+.board_list{
+	border-top:1px solid #e2e2e2;
+	border-bottom:1px solid #e2e2e2;
+	font-size:12px;
+	font-family:'Nanum Gothic';
+	width:900px;
+	
+	margin:auto;
+	text-align:center;
+}
+
+/* 제목 */
+.board_list th{
+
+	border-right:1px solid #666;
+	border-bottom:1px solid #666;
+	font-size:15px;
+	font-family:'Nanum Gothic';
+	height:20px;
+	text-align:center;
+	background-color:#eeeeee;
+	
+}
+
+/* 내용 */
+.board_list td{
+
+	border-right:1px solid #e2e2e2;
+	font-size:15px;
+	font-family:'Nanum Gothic';
+	height:20px;
+	text-align:center;
+	
+}
+
+/* 3. 페이징 네이션 */
+.paginate{
+
+	font-size:15px;
+	font-family:'Nanum Gothic';
+	font-color:#666;
+	text-align: center;
+}
+
+.paginate .first{
+
+	font-size:15px;
+	font-family:'Nanum Gothic';
+	font-color:#666;
+	text-align: center;
+	
+	margin-right:10px;
+}
+
+.paginate .prev{
+
+	font-size:15px;
+	font-family:'Nanum Gothic';
+	font-color:#666;
+	text-align: center;
+	
+	margin-right:10px;
+}
+
+.paginate .next{
+
+	font-size:15px;
+	font-family:'Nanum Gothic';
+	font-color:#666;
+	text-align: center;
+	
+	margin-right:10px;
+}
+
+.paginate .last{
+
+	font-size:15px;
+	font-family:'Nanum Gothic';
+	font-color:#666;
+	text-align: center;
+	
+	margin-right:10px;
+}
+
+.paginate .choice{
+
+	font-size:20px;
+	font-family:'Nanum Gothic';
+	font-color:#666;
+	text-align: center;
+	
+	margin-right:10px;
+}
+
+/* 4. 링크 */
+a{
+	text-decoration:none;
+	color:#666;
+}
+
+/* 5. 검색 영역 */
+.searchArea{
+
+	font-size:15px;
+	font-family:'Nanum Gothic';
+	font-color:#666;
+	text-align: center;
+}
