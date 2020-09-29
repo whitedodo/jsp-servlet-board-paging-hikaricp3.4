@@ -29,11 +29,11 @@ JSP/Servlet 기반의 board-paging을 hikaricp3.4(커넥션풀)과 Oracle 19g로
 ##### (The bulletin board search function was implemented only for "title" search.)
 
 ### 2. 시연(Demonstration)
-##### 1. 
+##### 1. Hikaricp, JSP/Servlet Maven MVC2 - Board Paging(게시판 페이징), https://youtu.be/IdkfrGXQSdM, Accessed by 2020-09-30, Last Modified 2020-09-30
 
 ### 3. 참고자료(Reference)
-##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-28, Last Modified .
-##### 2. Maven - Welcome to Apache Maven, https://maven.apache.org/, Accessed by 2020-09-28, Last Modified .
-##### 3. Spring | Tools, https://spring.io/tools, Accessed by 2020-09-28, Last Modified .
-##### 4. OpenJDK, https://openjdk.java.net/, Accessed by 2020-09-28, Last Modified .
+##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-29, Last Modified .
+##### 2. Maven - Welcome to Apache Maven, https://maven.apache.org/, Accessed by 2020-09-29, Last Modified .
+##### 3. Spring | Tools, https://spring.io/tools, Accessed by 2020-09-29, Last Modified .
+##### 4. OpenJDK, https://openjdk.java.net/, Accessed by 2020-09-29, Last Modified .
 ##### 5
